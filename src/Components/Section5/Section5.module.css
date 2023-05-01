@@ -1,0 +1,19 @@
+.gridContainer {
+  /* display: grid;
+      justify-content: space-evenly;
+      grid-template-columns: auto; 
+      gap: 5px;
+      padding: 5px;
+       */
+
+  display: grid;
+  grid-template-columns: 100px 100px; /*Make the grid smaller than the container*/
+  align-items: stretch;
+  justify-content: space-between;
+  background: #bf86e0;
+  grid-template-columns: repeat(2, auto);
+  grid-template-rows: repeat(1, auto);
+  margin-left: 40px;
+  margin-right: 40px;
+  border-radius: 20px;
+}

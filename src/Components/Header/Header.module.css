@@ -1,0 +1,65 @@
+.break_line {
+  padding-bottom: 0.5em;
+  background-color: #321940;
+}
+.Navbar {
+  display: grid;
+  grid-template-columns: 100px 100px 100px; /*Make the grid smaller than the container*/
+  align-items: stretch;
+  justify-content: space-between;
+  grid-template-columns: repeat(3, auto);
+  /* grid-template-rows: repeat(1, auto); */
+  /* background-color: #6b149e; */
+}
+.Navbar > div {
+  /* background: #bf86e0; */
+  /* padding: 0 0; */
+  /* font-size: 15px; */
+}
+
+a {
+  text-decoration: none;
+  color: #321940;
+  padding: 0 0.71em;
+  /* background-color: aquamarine; */
+  border-radius: 2em;
+  display: inline-block;
+  font-size: 1.1em;
+}
+/* a::after {
+  content: ".";
+  position: absolute;
+  right: -3px;
+  height: 70%;
+  top: 15%;
+  width: 1px;
+  background: #321940;
+} */
+a:last-child {
+  padding-right: 0;
+}
+
+.left_1,
+.right_1 {
+  padding-bottom: 1.1em;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.left_2 {
+  /* padding-bottom: 0.4em; */
+  font-size: 1.1em;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+.right_2 img {
+  text-decoration: none;
+  color: #321940;
+  padding: 0 0.71em;
+  /* background-color: aquamarine; */
+  border-radius: 2em;
+  display: inline-block;
+  font-size: 1.1em;
+}
