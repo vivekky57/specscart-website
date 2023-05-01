@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "b2ea5a4ed561038f1d74",
-    "url": "/specscart-website/static/css/main.df58559e.chunk.css"
+    "revision": "9f7b4a6e3402511dffb1",
+    "url": "/specscart-website/static/css/main.69272c00.chunk.css"
   },
   {
-    "revision": "b2ea5a4ed561038f1d74",
-    "url": "/specscart-website/static/js/main.b2ea5a4e.chunk.js"
+    "revision": "9f7b4a6e3402511dffb1",
+    "url": "/specscart-website/static/js/main.9f7b4a6e.chunk.js"
   },
   {
     "revision": "dcf916b92703013e6b2e",
     "url": "/specscart-website/static/js/1.dcf916b9.chunk.js"
   },
   {
-    "revision": "ed8ad7a0fa07cbcb33d9",
-    "url": "/specscart-website/static/js/2.ed8ad7a0.chunk.js"
+    "revision": "733c77f239a9bbe3be10",
+    "url": "/specscart-website/static/js/2.733c77f2.chunk.js"
   },
   {
     "revision": "ff91cd4432fb7f666771",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "/specscart-website/static/media/Our_feed_img4.993851b7.png"
   },
   {
-    "revision": "455894cf504949a536362d3a627950d1",
+    "revision": "ff3a6635b771acad89a98ee49ab781d0",
     "url": "/specscart-website/index.html"
   }
 ];

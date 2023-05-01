@@ -1,11 +1,11 @@
 {
-  "main.css": "/specscart-website/static/css/main.df58559e.chunk.css",
-  "main.js": "/specscart-website/static/js/main.b2ea5a4e.chunk.js",
-  "main.js.map": "/specscart-website/static/js/main.b2ea5a4e.chunk.js.map",
+  "main.css": "/specscart-website/static/css/main.69272c00.chunk.css",
+  "main.js": "/specscart-website/static/js/main.9f7b4a6e.chunk.js",
+  "main.js.map": "/specscart-website/static/js/main.9f7b4a6e.chunk.js.map",
   "static/js/1.dcf916b9.chunk.js": "/specscart-website/static/js/1.dcf916b9.chunk.js",
   "static/js/1.dcf916b9.chunk.js.map": "/specscart-website/static/js/1.dcf916b9.chunk.js.map",
-  "static/js/2.ed8ad7a0.chunk.js": "/specscart-website/static/js/2.ed8ad7a0.chunk.js",
-  "static/js/2.ed8ad7a0.chunk.js.map": "/specscart-website/static/js/2.ed8ad7a0.chunk.js.map",
+  "static/js/2.733c77f2.chunk.js": "/specscart-website/static/js/2.733c77f2.chunk.js",
+  "static/js/2.733c77f2.chunk.js.map": "/specscart-website/static/js/2.733c77f2.chunk.js.map",
   "runtime~main.js": "/specscart-website/static/js/runtime~main.ff91cd44.js",
   "runtime~main.js.map": "/specscart-website/static/js/runtime~main.ff91cd44.js.map",
   "static/media/Image 39.png": "/specscart-website/static/media/Image 39.d4b68090.png",
@@ -26,8 +26,8 @@
   "static/media/Our_feed_img2.png": "/specscart-website/static/media/Our_feed_img2.19191399.png",
   "static/media/Our_feed_img3.png": "/specscart-website/static/media/Our_feed_img3.59920466.png",
   "static/media/Our_feed_img4.png": "/specscart-website/static/media/Our_feed_img4.993851b7.png",
-  "static/css/main.df58559e.chunk.css.map": "/specscart-website/static/css/main.df58559e.chunk.css.map",
+  "static/css/main.69272c00.chunk.css.map": "/specscart-website/static/css/main.69272c00.chunk.css.map",
   "index.html": "/specscart-website/index.html",
-  "precache-manifest.74b696a11053c2262883337730e3ca1f.js": "/specscart-website/precache-manifest.74b696a11053c2262883337730e3ca1f.js",
+  "precache-manifest.70f9317d42349d38c6058bce9547b642.js": "/specscart-website/precache-manifest.70f9317d42349d38c6058bce9547b642.js",
   "service-worker.js": "/specscart-website/service-worker.js"
 }
