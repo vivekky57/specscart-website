@@ -24,11 +24,6 @@
   border-top-left-radius: 20px;
 }
 
-.img2 {
-  /* background-color: #999; */
-}
-.img3 {
-}
 .row_2 {
   grid-column-start: span 3;
   text-align: center;
