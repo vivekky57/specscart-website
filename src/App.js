@@ -1,5 +1,4 @@
 import React from "react";
-import ReactDOM from "react-dom";
 import classes from "./App.module.css";
 import Footer from "./Components/Footer/Footer";
 import Header from "./Components/Header/Header";
@@ -15,13 +14,13 @@ function App() {
     <div className={classes.default}>
       <Header></Header>
       <Section1></Section1>
-      <Section2></Section2>
+      {/* <Section2></Section2> */}
       <Section3></Section3>
       {/* <Section4></Section4> */}
       {/* <Section5></Section5> */}
       <Section7></Section7>
       <Section8></Section8>
-      <Footer></Footer>
+      {/* <Footer></Footer> */}
     </div>
   );
 }

@@ -24,32 +24,34 @@ const Section8 = () => {
         ))}
       </div>
       <div className={classes.section_3}>
-        <p>Follow @Specscartuk</p>
-        <SocialIcon
-          className={classes.social_icon}
-          network="instagram"
-          bgColor="#fff"
-          fgColor="#999"
-        />
-        <SocialIcon
-          className={classes.social_icon}
-          network="facebook"
-          bgColor="#fff"
-          fgColor="#999"
-        />
-        <SocialIcon
-          className={classes.social_icon}
-          network="twitter"
-          bgColor="#fff"
-          fgColor="#999"
-        />
-        <SocialIcon
-          className={classes.social_icon}
-          network="youtube"
-          bgColor="#fff"
-          fgColor="#999"
-        />
-        {/* add icon insta facebook twitter youtube */}
+        <div className={classes.section_3_inner}>
+          <p>Follow @Specscartuk</p>
+          <SocialIcon
+            className={classes.social_icon}
+            network="instagram"
+            bgColor="#fff"
+            fgColor="#999"
+          />
+          <SocialIcon
+            className={classes.social_icon}
+            network="facebook"
+            bgColor="#fff"
+            fgColor="#999"
+          />
+          <SocialIcon
+            className={classes.social_icon}
+            network="twitter"
+            bgColor="#fff"
+            fgColor="#999"
+          />
+          <SocialIcon
+            className={classes.social_icon}
+            network="youtube"
+            bgColor="#fff"
+            fgColor="#999"
+          />
+          {/* add icon insta facebook twitter youtube */}
+        </div>
       </div>
     </React.Fragment>
   );

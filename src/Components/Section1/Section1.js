@@ -14,9 +14,9 @@ const Section1 = () => {
           <h1>Four Frames. Three Lenses. 1Laser</h1>
           <button className={classes.btn_1}>Try Now</button>
           {/* <button className={classes.btn_2}></button> */}
-          <a href="#" class={classes.play_btn}>
+          {/* <a href="#" class={classes.play_btn}>
             <span></span>
-          </a>
+          </a> */}
           <h4>Watch Whats New!</h4>
         </div>
 

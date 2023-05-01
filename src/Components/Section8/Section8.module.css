@@ -5,11 +5,18 @@
 }
 
 .section_2 {
-  margin: 0 3em;
+  /* margin: 0 3em; */
+  /* background-color: aqua; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
 }
 
 .section_2 img {
   padding: 0.8em;
+  width: auto;
+  height: auto;
 }
 .section_3 {
   text-align: center;
@@ -17,10 +24,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 2em 30em 4em;
+  margin: 1em;
+  /* background-color: aqua; */
+}
+.section_3_inner {
   border-radius: 6rem;
   border-style: solid;
   border-color: #e4e5e4;
+  padding: 0 2em;
 }
 .section_3 p {
   display: inline-block;

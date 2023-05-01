@@ -29,6 +29,13 @@
   text-align: center;
   padding: 40px 0;
 }
+.row_2 h1 {
+  color: #424343;
+}
+.row_2 p {
+  color: #b3b2b2;
+}
+
 .section1_para {
   color: #999;
   font-weight: 100;
